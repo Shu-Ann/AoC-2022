@@ -1,1 +1,2 @@
-# AoC_2022
+# AoC-2022
+advent of code https://adventofcode.com/
